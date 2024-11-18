@@ -3,7 +3,7 @@
 library(manifestoR)
 library(tidyverse)
 library(readxl)
-setwd("C:/Users/User/Desktop/PhD")
+setwd("")
 
 mp_load_cache(file = "manifesto_cache.RData")
 mp_which_corpus_version()
