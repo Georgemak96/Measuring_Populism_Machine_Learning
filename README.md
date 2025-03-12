@@ -1,2 +1,2 @@
 # Measuring Populism with Supervised Machine Learning
-R code implementing ML models and figures of the paper "Measuring Populism in a Comparative Perspective using the Comparative Manifesto Project Coding Categories"
+R code implementing ML models and figures of the paper "Measuring Populism in a Comparative Perspective using the Comparative Manifesto Project Coding Categories". The paper introduces a Gradient Boosting Machine model to predict populism on a continuous dimension. Then uses the model's predictions to derive a populism score. The full paper is available above ('Final_Paper.pdf')
